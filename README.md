@@ -1,31 +1,29 @@
 👨‍💻 Ntlahla Pikwa | Software Developer
 
-Welcome to my GitHub! I'm Ntlahla Pikwa, a passionate Software Developer who enjoys building scalable applications, solving real-world problems, and continuously learning new technologies.
+Welcome to my GitHub portfolio! I'm Ntlahla Pikwa, a passionate Software Developer focused on building scalable, secure, and user-friendly applications.
 
-I specialize in Java backend development, full-stack web development, and data-driven applications using modern frameworks and tools.
-
-My focus is on building secure, efficient, and user-friendly systems that solve real-world business challenges.
+I enjoy developing backend systems, full-stack applications, and AI-driven tools that solve real-world problems. My work spans Java backend development, web applications, and data-driven systems.
 
 🚀 About Me
 
-I am a developer with experience in backend systems, microservices, web applications, and AI-powered tools.
+I am a developer with experience in backend development, microservices, and full-stack systems.
 
-I enjoy designing systems that are scalable, maintainable, and efficient, and I am always exploring new technologies to improve my development skills.
+I enjoy designing software that is efficient, secure, and maintainable, and I am always exploring new technologies to improve my skills.
 
 What I Do
 
-Build backend services using Java and Spring Boot
+Build backend services with Java and Spring Boot
 
 Develop REST APIs and microservices
 
-Create full-stack applications with modern web technologies
+Create full-stack web applications
 
-Work with databases and data-driven systems
+Build AI-powered development tools
 
-Develop AI-powered tools and automation solutions
+Work with databases and data-driven applications
 
 🛠 Tech Stack
-Backend Development
+Backend
 
 Java
 
@@ -35,7 +33,7 @@ Python
 
 Node.js
 
-Frontend Development
+Frontend
 
 HTML5
 
@@ -46,6 +44,8 @@ JavaScript
 React.js
 
 Bootstrap
+
+Thymeleaf
 
 Databases
 
@@ -69,26 +69,70 @@ Maven
 
 JUnit & Mockito
 
-Kubernetes
-
-Hibernates
-
 📂 Featured Projects
+🏦 Banking System Application
+
+A full-stack banking system built using Java Spring Boot, designed to manage accounts and perform secure financial transactions.
+
+The system supports multiple users, secure authentication, and real-time transaction tracking.
+
+Key Features
+
+Secure user authentication (username & password)
+
+Create and manage multiple bank accounts
+
+Deposit funds into accounts
+
+Withdraw funds from accounts
+
+Transfer funds between accounts
+
+View transaction history
+
+Multi-user support
+
+Session management using cookies
+
+Tech Stack
+
+Backend: Java, Spring Boot
+
+Frontend: Thymeleaf, Bootstrap
+
+Database: SQLite
+
+Containerization: Docker
+
+Deployment: Render
+
+Repository
+
+🔗 Project Repository
+https://github.com/S-arpCoders/BankApp
+
+Live Application
+
+🔗 Live Demo
+https://bankapp-scoder.onrender.com
+
 🛒 RetailEdge POS System (Full Stack)
 
-RetailEdge is a microservices-based Point-of-Sale (POS) platform designed to help small businesses manage inventory, sales, and product expiry tracking in one unified system.
+RetailEdge is a microservices-based Point-of-Sale (POS) system designed to help small businesses manage inventory and sales in a unified platform.
 
-It helps retail stores, grocery shops, pharmacies, and restaurants improve operational efficiency and reduce stock errors.
+It helps retail stores, grocery shops, restaurants, and pharmacies track stock levels and product expiry efficiently.
 
 Key Features
 
 POS sales processing
 
-Inventory tracking with expiry alerts
+Inventory management dashboard
+
+Expiry tracking and alerts
 
 Role-based user access control
 
-Automated notifications for low stock
+Low stock notifications
 
 API gateway for centralized routing
 
@@ -109,26 +153,57 @@ MySQL
 Repositories
 
 Backend Service
-🔗 Repository:
-https://github.com/S-arpCoders/RetailEdge-Backend
+🔗 https://github.com/S-arpCoders/RetailEdge-Backend
 
-Frontend Dashboard (React)
-🔗 Repository:
-https://github.com/S-arpCoders/retailedge-frontend
+Frontend Dashboard
+🔗 https://github.com/S-arpCoders/retailedge-frontend
 
-🤖 FastMCP AI Code Assistant (Python)
+💻 RetailEdge Frontend (React)
 
-A FastMCP-powered server that provides AI-driven developer tools with JWT-secured access.
+The RetailEdge frontend provides an interactive dashboard that connects to the RetailEdge backend microservices.
 
-The system integrates a Gemini-like AI service that helps developers generate, review, and understand code.
+It allows users to manage inventory, suppliers, and orders through a responsive interface.
 
 Features
 
-Secure JWT authentication middleware
+User authentication
+
+Sales dashboard with insights
+
+Inventory management with low-stock alerts
+
+Supplier and product management
+
+Order processing and reporting
+
+Responsive UI
+
+Tech Stack
+
+React.js
+
+Bootstrap
+
+Recharts
+
+React Hooks
+
+🔗 Repository
+https://github.com/S-arpCoders/retailedge-frontend
+
+🤖 FastMCP AI Code Assistant
+
+A Python-based FastMCP server that provides AI-driven developer tools secured with JWT authentication.
+
+The system integrates a Gemini-like AI service to help developers generate, review, and understand code.
+
+Features
+
+JWT authentication middleware
 
 AI code generation from natural language
 
-Automated code review tool
+Code review automation
 
 Code explanation tool
 
@@ -148,14 +223,14 @@ JWT Authentication
 
 Gemini AI Integration
 
-🔗 Repository:
+🔗 Repository
 https://github.com/Group10-MCP/MCP-Coding-server
 
 🎬 Movie Recommendation System
 
-A data-driven web application that recommends movies using content-based filtering techniques.
+A machine learning web application that recommends movies using content-based filtering.
 
-The system analyzes movie attributes and user preferences to generate intelligent recommendations.
+The system analyzes movie features and user preferences to generate personalized recommendations.
 
 Tech Stack
 
@@ -169,22 +244,25 @@ Pandas
 
 Scikit-learn
 
-🔗 Repository:
+🔗 Repository
 https://github.com/S-arpCoders/Moviedatabase
 
-📋 To-Do List Web Application (Node.js)
 
-A simple task management application built with Node.js and Express, using EJS templates for dynamic rendering.
+📋 To-Do List Web Application
+
+A simple task management web application built using Node.js, Express, and EJS.
+
+The application allows users to manage daily tasks and track progress.
 
 Features
 
 Add tasks
 
-Mark tasks as completed or incomplete
+Mark tasks as complete/incomplete
 
 Remove tasks
 
-Track task progress statistics
+Task progress statistics
 
 Tech Stack
 
@@ -198,7 +276,7 @@ HTML/CSS
 
 JavaScript
 
-🔗 Repository:
+🔗 Repository
 https://github.com/Ntlahla80/To-do-List
 
 🌱 Currently Learning
@@ -207,11 +285,15 @@ Advanced Spring Boot
 
 Spring Security
 
-Data Engineering
+Microservices Architecture
 
-Scalable Microservices Architecture
+Kong Gateway
+
+SpringBatch
+
+Drools Rule
 
 📫 Connect With Me
 
 LinkedIn
-https://www.linkedin.com/in/ntlahla-pikwa-6b5906192
+https://www.linkedin.com/in/ntlahla-pikwa-6b5906192/
