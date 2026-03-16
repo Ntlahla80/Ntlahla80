@@ -1,39 +1,217 @@
+👨‍💻 Ntlahla Pikwa | Software Developer
 
+Welcome to my GitHub! I'm Ntlahla Pikwa, a passionate Software Developer who enjoys building scalable applications, solving real-world problems, and continuously learning new technologies.
 
-# NTLAHLA Profile 👨‍💻
+I specialize in Java backend development, full-stack web development, and data-driven applications using modern frameworks and tools.
 
-Welcome to my portfolio! I'm **Ntlahla Pikwa**, a passionate Software Developer with a strong foundation in programming and a focus on creating innovative and scalable software solutions. From operating systems to mobile apps and video games, I design and write code to bring ideas to life.
+My focus is on building secure, efficient, and user-friendly systems that solve real-world business challenges.
 
-## About Me
+🚀 About Me
 
-Hello, I'm **Ntlahla Pikwa**, a Software Developer who is always eager to learn and adapt to new technologies. I use my programming skills to develop new software and improve existing systems. Whether it’s designing and developing applications or optimizing the performance of systems, I am passionate about creating efficient, user-friendly, and scalable software.
+I am a developer with experience in backend systems, microservices, web applications, and AI-powered tools.
 
-### What I Do:
-- Build and design software applications, both mobile and desktop.
-- Collaborate on complex projects to bring innovative solutions to life.
-- Write clean, maintainable code, and follow best practices in software development.
+I enjoy designing systems that are scalable, maintainable, and efficient, and I am always exploring new technologies to improve my development skills.
 
+What I Do
 
+Build backend services using Java and Spring Boot
 
----
+Develop REST APIs and microservices
 
-## My Skills 💻
+Create full-stack applications with modern web technologies
 
-Here are the key technologies and tools that I specialize in:
+Work with databases and data-driven systems
 
-### **HTML5**
-A markup language used for structuring and presenting hypertext documents on the World Wide Web. I use HTML5 to create responsive, user-friendly web applications.
+Develop AI-powered tools and automation solutions
 
-### **Java**
-A high-level, class-based, object-oriented programming language that allows me to develop robust, scalable applications. I use Java for backend systems and mobile app development.
+🛠 Tech Stack
+Backend Development
 
-### **C#**
-A programming language that combines static typing, strong typing, and object-oriented principles. C# is my go-to language for desktop applications and game development.
+Java
 
-### **MySQL**
-A relational database management system that I use for creating scalable, high-performance databases. MySQL is great for managing and querying data in both small and large applications.
+Spring Boot
 
-### **Android Studio**
-The official IDE for Android development, based on IntelliJ IDEA. I use Android Studio to create mobile applications, ensuring they are optimized and user-friendly.
+Python
 
+Node.js
 
+Frontend Development
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React.js
+
+Bootstrap
+
+Databases
+
+MySQL
+
+SQLite
+
+H2 Database
+
+Tools & Technologies
+
+Git & GitHub
+
+REST APIs
+
+JWT Authentication
+
+Docker
+
+Maven
+
+JUnit & Mockito
+
+Kubernetes
+
+Hibernates
+
+📂 Featured Projects
+🛒 RetailEdge POS System (Full Stack)
+
+RetailEdge is a microservices-based Point-of-Sale (POS) platform designed to help small businesses manage inventory, sales, and product expiry tracking in one unified system.
+
+It helps retail stores, grocery shops, pharmacies, and restaurants improve operational efficiency and reduce stock errors.
+
+Key Features
+
+POS sales processing
+
+Inventory tracking with expiry alerts
+
+Role-based user access control
+
+Automated notifications for low stock
+
+API gateway for centralized routing
+
+Tech Stack
+
+Java 21
+
+Spring Boot
+
+Maven
+
+JWT Authentication
+
+Microservices Architecture
+
+MySQL
+
+Repositories
+
+Backend Service
+🔗 Repository:
+https://github.com/S-arpCoders/RetailEdge-Backend
+
+Frontend Dashboard (React)
+🔗 Repository:
+https://github.com/S-arpCoders/retailedge-frontend
+
+🤖 FastMCP AI Code Assistant (Python)
+
+A FastMCP-powered server that provides AI-driven developer tools with JWT-secured access.
+
+The system integrates a Gemini-like AI service that helps developers generate, review, and understand code.
+
+Features
+
+Secure JWT authentication middleware
+
+AI code generation from natural language
+
+Automated code review tool
+
+Code explanation tool
+
+Gemini AI service integration
+
+Jira issue-based code generation support
+
+Tech Stack
+
+Python
+
+FastMCP
+
+REST APIs
+
+JWT Authentication
+
+Gemini AI Integration
+
+🔗 Repository:
+https://github.com/Group10-MCP/MCP-Coding-server
+
+🎬 Movie Recommendation System
+
+A data-driven web application that recommends movies using content-based filtering techniques.
+
+The system analyzes movie attributes and user preferences to generate intelligent recommendations.
+
+Tech Stack
+
+Python
+
+Flask
+
+SQLite
+
+Pandas
+
+Scikit-learn
+
+🔗 Repository:
+https://github.com/S-arpCoders/Moviedatabase
+
+📋 To-Do List Web Application (Node.js)
+
+A simple task management application built with Node.js and Express, using EJS templates for dynamic rendering.
+
+Features
+
+Add tasks
+
+Mark tasks as completed or incomplete
+
+Remove tasks
+
+Track task progress statistics
+
+Tech Stack
+
+Node.js
+
+Express.js
+
+EJS
+
+HTML/CSS
+
+JavaScript
+
+🔗 Repository:
+https://github.com/Ntlahla80/To-do-List
+
+🌱 Currently Learning
+
+Advanced Spring Boot
+
+Spring Security
+
+Data Engineering
+
+Scalable Microservices Architecture
+
+📫 Connect With Me
+
+LinkedIn
+https://www.linkedin.com/in/ntlahla-pikwa-6b5906192
